@@ -1,4 +1,4 @@
-# Understanding the affectance of Taiwan real-time events in Twitter
+# Understanding the affectance of Taiwan real-time events in Social Networks (Youtube and Twitter)
 WebIntelligence final project in collaboration with Pau Nonell. Data obtained directly from both Twitter and Youtube apis. 
 
 In the context of Web Inteligence final project, both me and Pau were really interested in understand the affectance that real-events could have in social network user behaviors. Having both of us lived in Taiwan and considering both Taiwan is a geopolitical hot location and the huge amount of users that the island presents, Taiwan was chosen as the main topic of the project. 
